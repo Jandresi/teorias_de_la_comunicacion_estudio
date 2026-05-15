@@ -1,0 +1,48 @@
+body {
+  background-color: #121212;
+  /* Fondo oscuro para no agotar la vista */
+  color: #e0e0e0;
+  font-family: 'Inter', sans-serif;
+}
+
+.card {
+  background-color: #1e1e1e;
+  border: 1px solid #333;
+  color: white;
+  transition: transform 0.2s, box-shadow 0.2s;
+  height: 100%;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+  border-color: #0d6efd;
+}
+
+.nav-pills .nav-link {
+  color: #aaa;
+  border: 1px solid #333;
+  margin: 0 5px;
+}
+
+.nav-pills .nav-link.active {
+  background-color: #0d6efd;
+}
+
+.icon-box {
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+.badge-driver {
+  background-color: #ffc107;
+  color: black;
+}
+
+.badge-style {
+  background-color: #17a2b8;
+}
+
+.badge-ref {
+  background-color: #6f42c1;
+}
