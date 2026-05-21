@@ -89,6 +89,86 @@ const conjuntoDeInformacion = [
         ejemplo: "Ver una pintura original en un museo tiene 'aura'; tener la misma imagen impresa en un cuaderno de supermercado es cultura de masas."
       }
     ]
+  },
+  {
+    pdf: "3. Introducción a los estudios culturales y la escuela de los estudios culturales ingleses",
+    descripcion: "El giro hacia la audiencia activa: cómo la cultura popular se convierte en un espacio de resistencia y disputa política.",
+    ideas: [
+      {
+        titulo: "Origen: La Escuela de Birmingham",
+        icono: "🏫",
+        contenido: "Surgida en Inglaterra en los años 50, esta escuela rompe con la idea de que los medios nos manipulan como zombis. Propone que <b>la audiencia es activa, crítica y creativa</b>; no recibimos los mensajes de forma lineal, sino que los adaptamos a nuestra propia realidad.",
+        ejemplo: "Mientras otras teorías dicen que la publicidad nos obliga a comprar, Birmingham analiza cómo usamos esa publicidad para crear estilos propios que a veces van en contra de la marca."
+      },
+          {
+        titulo: "La Cultura como Disputa Política",
+        icono: "⚔️",
+        contenido: "Stuart Hall plantea que la cultura no son solo hábitos, sino un <b>ámbito de disputa de poder</b>. En lo que consumimos a diario hay jerarquías y mecanismos de inclusión o exclusión. Por eso, estudiar la moda o la música popular es estudiar política.",
+        ejemplo: "El surgimiento de una subcultura juvenil (como los punk o los raperos) no es solo música, es una forma de pelear por un espacio político en la sociedad."
+      },
+      {
+        titulo: "Richard Hoggart: Resistencia Obrera",
+        icono: "✊",
+        contenido: "Hoggart analizó cómo la clase obrera mantenía una <b>resistencia interior</b> frente a la cultura de masas. Aunque la industria cultural intenta homogeneizar todo, la gente conserva sus ritos, actitudes y modos de vida del 'viejo orden' para no perder su identidad.",
+        ejemplo: "Una familia que mantiene sus tradiciones culinarias y reuniones de barrio a pesar de la presión de las grandes cadenas de entretenimiento masivo."
+      },
+          {
+        titulo: "Raymond Williams: Todo un Modo de Vida",
+        icono: "🌍",
+        contenido: "Para Williams, la cultura es la <b>totalidad comunicativa</b> de una época: es todo un modo de vida. Defiende que los medios no solo son comerciales, sino que tienen un <b>poder educativo</b> enorme para despertar el pensamiento crítico e independiente.",
+        ejemplo: "Proyectos como Radio Sutatenza en Colombia, que usaron los medios para educar y alfabetizar al campesinado, reflejan la visión de Williams sobre los medios como herramientas de progreso social."
+      },
+      {
+        titulo: "Sujetos como Productores de Contenido",
+        icono: "📱",
+        contenido: "Williams adelantó una idea muy moderna: los medios son medios de producción y <b>los consumidores también pueden ser productores</b>. No hay una jerarquía donde el emisor es el único que manda; la comunicación es socialmente productiva por ambas partes.",
+        ejemplo: "El uso de WhatsApp por parte de migrantes para gestionar la educación de sus hijos a distancia: transforman una herramienta de mensajería en un sistema de soporte familiar y educativo."
+      },
+          {
+        titulo: "Conceptos Clave (Glosario)",
+        icono: "📋",
+        contenido: "<b>Alta Cultura vs. Popular</b>: Birmingham elimina esta división; lo popular (cine, publicidad, moda) es tan importante de estudiar como la literatura clásica.<br><br><b>Subjetividad</b>: Los medios son dispositivos que ayudan a construir quiénes somos, nuestros valores y nuestra identidad social.",
+        ejemplo: "Analizar un hilo de Twitter o una tendencia de TikTok hoy es tan válido académicamente como analizar una obra de Shakespeare."
+      }
+    ]
+  },
+  {
+    pdf: "4. Estudios culturales norteamericanos y latinoamericanos",
+    descripcion: "La evolución de los estudios culturales hacia la audiencia, la cultura popular y la identidad en contextos locales.",
+    ideas: [
+      {
+        titulo: "Estudios Culturales Norteamericanos",
+        icono: "🇺🇸",
+        contenido: "A diferencia de la escuela inglesa (más enfocada en el marxismo y la lucha de clases), esta variante se centró en la <b>reacción de la audiencia</b> y los usos prácticos de los medios. Surgieron en los años 70 interesados por cómo la cultura popular y de masas funcionaba en una sociedad capitalista como Estados Unidos.",
+        ejemplo: "Investigar por qué un programa de televisión específico es un éxito rotundo en los suburbios estadounidenses y qué papel juega en la vida cotidiana de esas familias."
+      },
+      {
+        titulo: "Estudios Culturales Latinoamericanos",
+        icono: "🌎",
+        contenido: "Esta vertiente no estudia los medios como algo aislado, sino como parte de la <b>complejidad social y política de América Latina</b>. Se enfocan en la comunicación mediada por la identidad, la desigualdad, la resistencia y los procesos de democratización de la región.",
+        ejemplo: "Analizar cómo los movimientos sociales en América Latina utilizan la radio comunitaria para defender sus territorios frente a grandes corporaciones."
+      },
+      
+      {
+        titulo: "El giro hacia la audiencia",
+        icono: "👥",
+        contenido: "Ambas corrientes comparten un interés profundo por la audiencia. Ya no se trata de preguntar qué hacen los medios con la gente (como en el funcionalismo), sino <b>qué hace la gente con los medios</b> y cómo los interpretan según su propio contexto cultural.",
+        ejemplo: "El estudio de cómo diferentes grupos sociales (indígenas, jóvenes, sectores urbanos) decodifican un mismo mensaje televisivo de formas totalmente distintas."
+      },
+      {
+        titulo: "La Cultura como campo de batalla",
+        icono: "🏟️",
+        contenido: "Tanto en el norte como en el sur, se entiende que la cultura popular (TV, música, redes) no es solo entretenimiento, sino un terreno donde se disputan significados. Es donde se construye, negocia o resiste la hegemonía cultural.",
+        ejemplo: "Cuando un grupo minoritario usa las redes sociales para desafiar un estereotipo que los medios tradicionales han impuesto sobre ellos."
+      },
+      
+      {
+        titulo: "Conceptos para el análisis",
+        icono: "🔍",
+        contenido: "<b>Decodificación</b>: La forma en que cada persona interpreta un mensaje mediático basada en su experiencia, clase social y cultura.<br><br><b>Cultura popular</b>: El objeto de estudio principal, visto como un espacio creativo y político, no como un producto simple o trivial.",
+        ejemplo: "Si una empresa lanza una publicidad, el estudio cultural analiza no solo el anuncio, sino cómo la audiencia lo 'lee', lo cuestiona o lo ignora en su vida diaria."
+      }
+    ]
   }
 ];
 
