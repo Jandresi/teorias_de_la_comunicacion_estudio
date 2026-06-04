@@ -169,6 +169,78 @@ const conjuntoDeInformacion = [
         ejemplo: "Si una empresa lanza una publicidad, el estudio cultural analiza no solo el anuncio, sino cómo la audiencia lo 'lee', lo cuestiona o lo ignora en su vida diaria."
       }
     ]
+  },
+  {
+    pdf: "5. Perspectivas teóricas sobre la comunicación de masas y la recepción en América Latina",
+    descripcion: "Explora cómo el contexto social y las 'multimediaciones' definen la relación entre los sujetos y los medios, clave para entender la comunicación actual.",
+    ideas: [
+      {
+        titulo: "Estudios sobre Recepción",
+        icono: "📡",
+        contenido: "Corriente de los estudios culturales latinoamericanos que analiza cómo las audiencias asignan sus propios sentidos a los medios. Se enfoca en procesos, prácticas cotidianas y en el papel activo del receptor, superando el modelo lineal emisor-mensaje-receptor.",
+        ejemplo: "Investigar cómo una familia en un vecindario específico integra la televisión en sus rutinas y qué significados propios le otorgan."
+      },
+      {
+        titulo: "Mediaciones y Multimediaciones",
+        icono: "🔄",
+        contenido: "Concepto central (acuñado por Jesús Martín-Barbero y desarrollado por Guillermo Orozco) que entiende la comunicación como un proceso articulado por sujetos, instituciones, medios y contextos. Las 'multimediaciones' son el juego de factores (individuales, situacionales, institucionales y videotecnológicos) que intervienen en la recepción.",
+        ejemplo: "Cómo el contexto familiar y la edad de un niño (mediación institucional e individual) influyen en la forma en que este entiende un programa de televisión."
+      },
+      {
+        titulo: "Contexto de Recepción",
+        icono: "📍",
+        contenido: "El entorno cultural, geográfico, económico y político en el que están inmersas las audiencias. Estos contextos crean los marcos necesarios para que los mensajes mediáticos adquieran sentido, superando el análisis aislado de contenidos.",
+        ejemplo: "La diferencia en cómo un televidente con abundantes recursos económicos frente a uno de escasos recursos 'semantiza' o da valor al televisor en su vida diaria."
+      },
+      {
+        titulo: "Educomunicación y Recepción Activa",
+        icono: "🎓",
+        contenido: "Propuesta (especialmente de Valerio Fuenzalida y Guillermo Orozco) que busca formar audiencias críticas, activas y selectivas. No solo se trata de educar para recibir mensajes, sino de incentivar la capacidad de los públicos para producir, crear y poner en circulación sus propios significados.",
+        ejemplo: "El uso de emisoras escolares y universitarias como espacios de participación ciudadana y aprendizaje recíproco entre medios y audiencias."
+      },
+      {
+        titulo: "Audiencias como Sujetos Activos",
+        icono: "👥",
+        contenido: "Rechazo a la idea de la audiencia como una masa pasiva y manipulable. Se reconoce a los individuos como sujetos culturales capaces de negociar, rechazar o apropiarse de los mensajes hegemónicos de los medios basándose en sus experiencias individuales y colectivas.",
+        ejemplo: "Niños que establecen una 'complicidad cognitiva' con personajes televisivos, transformando su rol de receptores pasivos a protagonistas activos de la interacción."
+      }
+    ]
+  },
+  {
+    pdf: "6. Perspectivas teóricas sobre los estudios de consumo cultural en América Latina",
+    descripcion: "Perspectivas teóricas sobre los estudios de consumo cultural en América Latina. Explora el giro conceptual desde la 'recepción' hacia el 'consumo cultural', destacando los aportes de Néstor García Canclini y Guillermo Sunkel sobre la relación entre medios, ciudadanía, materialidad de los artefactos y configuración de identidades sociales",
+    ideas: [
+      {
+        titulo: "Estudios sobre Consumo Cultural",
+        icono: "🛍️",
+        contenido: "Perspectiva que entiende el consumo no solo como la compra de bienes, sino como una experiencia simbólica compleja, un espacio de lucha social, negociación y acción política ciudadana. Supera la noción de 'recepción' al considerar la materialidad de los medios como mercancías[cite: 5].",
+        ejemplo: "Analizar el uso del celular no solo como herramienta de comunicación, sino como objeto de estatus, privilegio social y control de la incertidumbre familiar[cite: 5]."
+      },
+      {
+        titulo: "Los medios como mercancías",
+        icono: "📦",
+        contenido: "Propuesta teórica que reconoce a los medios como empresas que producen mercancías[cite: 5]. Estos poseen tres valores: de uso (satisfacer necesidades), de cambio (costo, tiempo, energía) y simbólico (significado que las personas le otorgan)[cite: 5].",
+        ejemplo: "Considerar el pago de suscripciones a plataformas digitales y el tiempo dedicado a ellas como parte del valor de cambio del consumo mediático[cite: 5]."
+      },
+      {
+        titulo: "Consumidores y Ciudadanos",
+        icono: "⚖️",
+        contenido: "Tesis de Néstor García Canclini que vincula la apropiación de bienes culturales con el ejercicio de la ciudadanía[cite: 5]. Implica el derecho a acceder a información de calidad, participar en la toma de decisiones y controlar/regular los contenidos que ofrecen los medios[cite: 5].",
+        ejemplo: "Los reclamos ciudadanos ante entidades como la ANTV para regular horarios o contenidos de programas televisivos (realities), ejerciendo un derecho de control[cite: 5]."
+      },
+      {
+        titulo: "Ampliación del campo de estudio (Sunkel)",
+        icono: "🌍",
+        contenido: "Guillermo Sunkel propone que el consumo no está confinado a los medios, sino que está 'en todas partes' de la vida cotidiana[cite: 5]. Se enfoca en cómo los procesos de consumo configuran identidades de clase, subjetividades y nuevas formas de relacionarse en el espacio urbano[cite: 5].",
+        ejemplo: "Investigar cómo los estilos de vida y la construcción de identidades juveniles se ven moldeados por el acceso y uso cotidiano de internet y redes sociales[cite: 5]."
+      },
+      {
+        titulo: "Recepción vs. Consumo",
+        icono: "🔄",
+        contenido: "Mientras la recepción se centra en las mediaciones y el sentido del mensaje, los estudios de consumo añaden la dimensión del medio como bien material, integran metodologías tanto cualitativas como cuantitativas y exploran la noción de 'prosumidor'[cite: 5].",
+        ejemplo: "El paso de estudiar solo 'qué significa un mensaje para el público' a estudiar 'cómo la adquisición y uso de un dispositivo (celular) reconfigura la estructura social del usuario'[cite: 5]."
+      }
+    ]
   }
 ];
 
